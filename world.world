@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+    <world name="my_world">
+        <!-- Include the cello model -->
+        <include>
+            <uri>model://cello</uri>
+            <pose>0 0 0 0 0 0</pose> <!-- Adjust pose as needed -->
+        </include>
+        <!-- Include the bow model -->
+        <include>
+            <uri>model://bow</uri>
+            <pose>1 0 0 0 0 0</pose> <!-- Adjust pose as needed -->
+        </include>
+    </world>
+</sdf>
