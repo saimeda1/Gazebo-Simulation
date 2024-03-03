@@ -16,7 +16,7 @@ To get started with this simulation, clone the repository and follow the detaile
 Contributions to enhance the simulation or extend its capabilities are welcome. Please follow the contribution guidelines outlined in the repository.
 
 ## License
-This project is open-source and available under [license name].
+This project is open-source.
 
 For more details and updates, please visit the [repository](https://github.com/saimeda1/Gazebo-Simulation).
 
